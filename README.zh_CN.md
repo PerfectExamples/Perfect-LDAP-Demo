@@ -95,7 +95,7 @@ $ cd Perfect-LDAP-Demo
 $ swift build
 ```
 
-编译完成后，您可以尝试运行 `./.build/debug/Perfect-LDAP-Demo` 查看检索结果。如果没有问题的话，应该能够以字典方式打印服务器上的所有用户信息。
+编译完成后，您可以尝试运行 `./.build/debug/PerfectLDAPDemo` 查看检索结果。如果没有问题的话，应该能够以字典方式打印服务器上的所有用户信息。
 
 ### 问题报告、内容贡献和客户支持
 

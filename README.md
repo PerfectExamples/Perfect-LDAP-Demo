@@ -39,7 +39,7 @@
     </a>
 </p>
 
-This project demonstrates a minimal usage of Perfect-LDAP library by connecting to a Windows 2000 Domain Controller and searching for domain users. 
+This project demonstrates a minimal usage of Perfect-LDAP library by connecting to a Windows 2000 Domain Controller and searching for domain users.
 
 
 ## Linux Build Note
@@ -92,7 +92,7 @@ $ cd Perfect-LDAP-Demo
 $ swift build
 ```
 
-Once done, you could try `./.build/debug/Perfect-LDAP-Demo` to see the searching result. If nothing wrong, it should return a dictionary with all users details on the server.
+Once done, you could try `./.build/debug/PerfectLDAPDemo` to see the searching result. If nothing wrong, it should return a dictionary with all users details on the server.
 
 ## Issues
 
